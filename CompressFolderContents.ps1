@@ -1,5 +1,5 @@
 param(
-    [string]$SourceDirectory="C:\Home\download"    
+    [string]$SourceDirectory="C:\Home\dev\repo\Surf"    
 )
 ##Add required libs
 Add-Type -Assembly "System.IO.Compression.FileSystem" ;
